@@ -2,7 +2,7 @@
 layout: post
 title: "First"
 date: 2021-05-14 20:33:00 -0000
-categories: CATEGORY-1 CATEGORY-2
+categories: 
 ---
 
 First Post
